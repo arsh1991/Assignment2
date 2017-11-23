@@ -9,11 +9,11 @@ python master.py
 
 
 ### Run the slave.
-python slaver.py
+python slave.py
 
 
 ### Pump data into server which will be replicated to the slave
-python test.py
+python pump_data.py
 
 
 
